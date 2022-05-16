@@ -1,1 +1,13 @@
-h5 { color: green; font-size: 24 px;}
+@font-face {
+    font-family: "igylehethozzaadnisajatfontot";
+    src: url("fonts/igylehethozzadnisajatfontot/font.ttf");
+    font-weight: 500;}
+
+h5 {color: green; font-size: 24 px;}
+
+h4 {color: orange; font-size: 32 px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;}
+img {width: 400px;}
+
+h2 {font-family: "igylehethozzadnisajatfontot"}
